@@ -239,6 +239,5 @@ Built using Godot 3.3.3
 Typeface changes, Music and Sound, Shaders
 
 ## Created by 
-
-Jason Francis
+Henry Yang
 ```
